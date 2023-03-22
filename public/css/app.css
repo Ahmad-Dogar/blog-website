@@ -1,0 +1,11 @@
+.banner { 
+    background-image: url("https://mdbootstrap.com/img/Photos/Horizontal/Nature/full page/img(20).jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+  }
+  .banner-overlay {
+    background-color: rgba(0, 0, 0, 0.4);
+    background-blend-mode: overlay;  
+  } 
